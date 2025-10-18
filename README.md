@@ -4,4 +4,5 @@ I am a dedicated and skilled Full Stack Developer with three years of experience
 
 ## my portfolio: [devcmappouras.vercel.app](https://devmappouras.vercel.app/) (React/Next)
 
+featured projects:
 ### [devmappouras.vercel.app](https://devmappouras.vercel.app/) my portfolio built using Angular.
